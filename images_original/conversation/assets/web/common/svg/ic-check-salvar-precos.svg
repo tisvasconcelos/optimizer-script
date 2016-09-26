@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>checkic_check_salvar_precos</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="choice-definir-precos" transform="translate(-364.000000, -214.000000)" fill="#359C9C">
+            <g id="choice-definir-precos-scroll">
+                <g id="actions" transform="translate(0.000000, 201.000000)">
+                    <g id="btn-save" transform="translate(250.000000, 5.000000)">
+                        <path d="M129.923483,9.97051188 C130.014566,10.0467095 130.025684,10.1811759 129.949568,10.2718873 L120.605006,21.3890559 C120.557754,21.4451903 120.488266,21.4710164 120.420702,21.4648267 C120.377512,21.4614116 120.334536,21.4447634 120.298616,21.4146686 L114.077603,16.2035625 C113.985879,16.126938 113.973905,15.9920447 114.050022,15.9015467 L115.97367,13.6128434 C116.050213,13.5219186 116.185341,13.5110332 116.276638,13.5876577 L120.044183,16.743349 L127.329114,8.07667022 C127.405444,7.98574533 127.540358,7.97421964 127.630799,8.04999038 L129.923483,9.97051188 Z" id="check"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

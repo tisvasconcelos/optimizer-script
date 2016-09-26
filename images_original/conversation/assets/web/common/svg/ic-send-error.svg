@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-send-error</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,0 C4.45714286,0 0,4.45714286 0,10 C0,15.5428571 4.45714286,20 10,20 C15.5428571,20 20,15.5428571 20,10 C20,4.45714286 15.5428571,0 10,0 L10,0 L10,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-send-error">
+            <use id="Shape" stroke="#C83E27" mask="url(#mask-2)" stroke-width="3" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M9.18591549,12.5352113 L11.0619718,12.5352113 L11.2309859,4 L9,4 L9.18591549,12.5352113 Z M9.08450704,16 L11.1633803,16 L11.1633803,14.0056338 L9.08450704,14.0056338 L9.08450704,16 Z" id="!" fill="#C83E27"></path>
+        </g>
+    </g>
+</svg>

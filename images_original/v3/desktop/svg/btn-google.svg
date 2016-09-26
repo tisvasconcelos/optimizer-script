@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-google</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.248125,0 C0.55875,0 0,0.5575 0,1.248125 L0,23.751875 C0,24.44125 0.5575,25 1.248125,25 L23.751875,25 C24.44125,25 25,24.4425 25,23.751875 L25,1.248125 C25,0.55875 24.4425,0 23.751875,0 L1.248125,0 L1.248125,0 Z" id="path-1"></path>
+        <path d="M11.0592,2.77108364 C11.0592,1.96803491 10.98624,1.19766109 10.84928,0.457448727 L0,0.457448727 L0,4.83211636 L6.20032,4.83211636 C5.9328,6.24593455 5.12128,7.44359564 3.90144,8.24538764 L3.90144,11.0843345 L7.62368,11.0843345 C9.80224,9.11504291 11.0592,6.21451636 11.0592,2.77108364 L11.0592,2.77108364 Z" id="path-3"></path>
+        <path d="M10.56,10.0538182 C13.6704,10.0538182 16.27776,9.040896 18.18368,7.31415273 L14.46144,4.47520582 C13.42976,5.15383855 12.11008,5.55473455 10.56,5.55473455 C7.55968,5.55473455 5.02016,3.56533527 4.11392,0.892276364 L0.26496,0.892276364 L0.26496,3.82296436 C2.16064,7.51899927 6.05696,10.0538182 10.56,10.0538182 L10.56,10.0538182 Z" id="path-5"></path>
+        <path d="M5.07392,8.43264 C4.84352,7.75400727 4.71296,7.02887564 4.71296,6.28363636 C4.71296,5.53839709 4.84352,4.81326545 5.07392,4.13463273 L5.07392,1.20394473 L1.22496,1.20394473 C0.44544,2.73086836 0,4.45886836 0,6.28363636 C0,8.10840436 0.44544,9.83640436 1.22496,11.363328 L5.07392,8.43264 L5.07392,8.43264 Z" id="path-7"></path>
+        <path d="M11.52,4.49908364 C13.21088,4.49908364 14.73024,5.06963782 15.9232,6.18938182 L19.22816,2.94576873 C17.23264,1.12100073 14.62528,0 11.52,0 C7.01696,0 3.12064,2.53481891 1.22496,6.23085382 L5.07392,9.16154182 C5.98016,6.48848291 8.51968,4.49908364 11.52,4.49908364 L11.52,4.49908364 Z" id="path-9"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-1.000000, -2.000000)">
+            <g id="btn-google" transform="translate(1.000000, 2.000000)">
+                <g id="Group-4"></g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-3" fill-opacity="0.01" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g id="Group-3" transform="translate(1.000000, 1.000000)">
+                    <g id="Group-7" transform="translate(11.520000, 8.893091)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-6"></g>
+                        <polygon id="Fill-5" fill="#318AF5" mask="url(#mask-4)" points="-0.0256 11.2100073 11.1872 11.2100073 11.1872 0.351883636 -0.0256 0.351883636"></polygon>
+                    </g>
+                    <g id="Group-10" transform="translate(0.960000, 12.663273)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Clip-9"></g>
+                        <polygon id="Fill-8" fill="#3DA751" mask="url(#mask-6)" points="0.2432 10.1543564 18.2144 10.1543564 18.2144 0.804305455 0.2432 0.804305455"></polygon>
+                    </g>
+                    <g id="Group-13" transform="translate(0.000000, 5.122909)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="Clip-12"></g>
+                        <polygon id="Fill-11" fill="#FDB900" mask="url(#mask-8)" points="-0.0256 11.5116218 5.1968 11.5116218 5.1968 1.10592 -0.0256 1.10592"></polygon>
+                    </g>
+                    <g id="Group-16" transform="translate(0.000000, 0.096000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <g id="Clip-15"></g>
+                        <polygon id="Fill-14" fill="#EA3E36" mask="url(#mask-10)" points="1.2032 9.29978182 19.328 9.29978182 19.328 -0.0502690909 1.2032 -0.0502690909"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

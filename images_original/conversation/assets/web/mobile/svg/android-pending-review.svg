@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>android-pending-review</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M31,62 C48.1208272,62 62,48.1208272 62,31 C62,13.8791728 48.1208272,0 31,0 C13.8791728,0 0,13.8791728 0,31 C0,48.1208272 13.8791728,62 31,62 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="64" height="64">
+            <rect x="-1" y="-1" width="64" height="64" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="android-chrome-banner-avaliacoes-pendentes" transform="translate(-107.000000, -969.000000)">
+            <g id="android-chrome">
+                <g id="avaliacoes-pendentes" transform="translate(0.000000, 811.000000)">
+                    <g id="android-avatar-avaliacao-pendente" transform="translate(42.000000, 62.000000)">
+                        <g id="android-pending-review" transform="translate(66.000000, 97.000000)">
+                            <g id="Oval-18-Copy">
+                                <use fill-opacity="0.8" fill="#08CC7A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <use stroke="#3C813A" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                            </g>
+                            <path d="M2.06666667,31 C2.06666667,15.0463667 15.0463667,2.06666667 31,2.06666667 C46.9536333,2.06666667 59.9333333,15.0463667 59.9333333,31 C59.9333333,46.9536333 46.9536333,59.9333333 31,59.9333333 C15.0463667,59.9333333 2.06666667,46.9536333 2.06666667,31 Z M20.15,19.1166667 C17.5863,19.1166667 15.5,20.6666667 15.5,23.7666667 L17.5666667,23.7666667 C17.5666667,21.7 18.7250333,21.1833333 20.15,21.1833333 C21.5749667,21.1833333 22.7333333,21.7 22.7333333,23.7666667 L24.8,23.7666667 C24.8,20.6666667 22.7137,19.1166667 20.15,19.1166667 L20.15,19.1166667 Z M41.85,21.1833333 C43.2749667,21.1833333 44.4333333,21.7 44.4333333,23.7666667 L46.5,23.7666667 C46.5,20.6666667 44.4137,19.1166667 41.85,19.1166667 C39.2863,19.1166667 37.2,20.6666667 37.2,23.7666667 L39.2666667,23.7666667 C39.2666667,21.7 40.4250333,21.1833333 41.85,21.1833333 L41.85,21.1833333 Z M20.122883,29.9219742 L18.393744,31.155116 C19.7086416,33.0500825 21.3426667,34.695435 23.37435,35.8216155 C30.6000207,39.8268701 40.1111007,36.5333203 43.6178903,30.2069044 L41.8103429,29.2049645 C38.804926,34.6290115 30.589971,37.4961746 24.3611626,34.0434898 C22.6096492,33.07261 21.2560681,31.554355 20.122883,29.9219742 L20.122883,29.9219742 Z M31,0 C13.9066,0 0,13.9066 0,31 C0,48.0934 13.9066,62 31,62 C48.0934,62 62,48.0934 62,31 C62,13.9066 48.0934,0 31,0 L31,0 Z" id="ic-avaliacao-positiva" stroke="#3C813A" stroke-width="0.5" fill="#3C813A"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

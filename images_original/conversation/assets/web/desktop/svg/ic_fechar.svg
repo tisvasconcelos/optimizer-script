@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_fechar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="busca-vazia" sketch:type="MSArtboardGroup" transform="translate(-301.000000, -96.000000)" fill="#9B9B9B">
+            <g id="header-box" sketch:type="MSLayerGroup" transform="translate(15.000000, 74.000000)">
+                <path d="M293,29.9899495 L290.525126,32.4648232 L289.535177,31.4748737 L292.010051,29 L289.483527,26.4734767 L290.473477,25.4835272 L293,28.0100505 L295.474874,25.5351768 L296.464823,26.5251263 L293.989949,29 L296.413174,31.4232242 L295.423224,32.4131737 L293,29.9899495 Z M293,36 C296.865993,36 300,32.8659932 300,29 C300,25.1340068 296.865993,22 293,22 C289.134007,22 286,25.1340068 286,29 C286,32.8659932 289.134007,36 293,36 Z" id="ic_fechar" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
